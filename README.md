@@ -4,7 +4,7 @@
 
 **Matric No**: A0236539W
 
-An accessible, session-based task management app (aka todolist).
+An accessible, session-based task management app (aka todolist). Mirror of [Todo-Link](https://github.com/Tex-Tang/Todo-Link).
 
 ## Features
 
